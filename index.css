@@ -1,0 +1,174 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #9c9c9c;
+}
+.home-makecook {
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  width: 1880px;
+  height: 251px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 5px 10px 0px #000000;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.home-text {
+  top: 15px;
+  left: 11px;
+  position: absolute;
+  font-size: 75px;
+  align-self: center;
+  font-style: normal;
+  font-family: "Itim";
+  font-weight: 900;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.home-container1 {
+  top: 100px;
+  left: 14px;
+  width: 1860px;
+  bottom: 100px;
+  height: 137px;
+  display: flex;
+  position: absolute;
+  align-self: flex-end;
+  align-items: flex-end;
+  animation-name: none;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: flex-start;
+  background-color: #e6e6e6;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.home-container2 {
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  width: 1833px;
+  bottom: 20px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #ffffff;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.home-container3 {
+  width: 100%;
+}
+.home-container4 {
+  display: contents;
+}
+.home-navlink {
+  left: 10px;
+  color: #ffffff;
+  right: 20px;
+  width: 1814px;
+  bottom: 5px;
+  height: 52px;
+  text-align: center;
+  font-family: "Itim";
+  padding-left: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  text-decoration: none;
+  background-color: #000000;
+}
+.home-container5 {
+  right: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 54px;
+  margin: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  background-color: #000000;
+}
+.home-text1 {
+  top: 8px;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  right: 0px;
+  bottom: 0px;
+  margin: 0px;
+  position: absolute;
+  font-size: 30px;
+  align-self: center;
+  text-align: center;
+}
+.home-container6 {
+  top: 420px;
+  flex: 0 0 auto;
+  right: -53px;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-image {
+  top: 0px;
+  flex: 55;
+  left: 0px;
+  right: 0px;
+  width: 200px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+  object-fit: cover;
+}
+.home-image1 {
+  top: 0px;
+  flex: 55;
+  left: 0px;
+  right: 0px;
+  width: 200px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+  object-fit: cover;
+}
+.home-image2 {
+  top: 0px;
+  flex: 55;
+  left: 0px;
+  right: 0px;
+  width: 200px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+  object-fit: cover;
+}
+.home-image3 {
+  top: 0px;
+  flex: 55;
+  left: 0px;
+  right: 0px;
+  width: 200px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+  object-fit: cover;
+}

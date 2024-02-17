@@ -1,0 +1,60 @@
+.android-small2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #D9D9D9;
+}
+.android-small2-container1 {
+  top: 50px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 90%;
+  height: 20%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.android-small2-text {
+  top: 0px;
+  left: 0px;
+  color: var(--dl-color-gray-black);
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 75px;
+  align-self: flex-start;
+  text-align: center;
+  font-family: "Itim";
+}
+.android-small2-textinput {
+  left: 625px;
+  bottom: 20px;
+  position: absolute;
+  font-size: 35px;
+  align-self: flex-end;
+}
+.android-small2-text1 {
+  font-size: 55px;
+  align-self: center;
+  font-family: "Itim";
+}
+.android-small2-navlink {
+  display: contents;
+}
+.android-small2-icon {
+  top: 54px;
+  right: 649px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  text-decoration: none;
+}
